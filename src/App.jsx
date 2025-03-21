@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Home from "./Pages/Home";
-import ProductDetails from "./Pages/Productdetails";
+import ProductDetails from "./Pages/ProductDetails";
 import Login from "./Pages/Login";   // Ensure these files exist
 import Register from "./Pages/Register"; // Ensure these files exist
 
